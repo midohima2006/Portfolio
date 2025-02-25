@@ -171,10 +171,11 @@ a:visited {
   #nav-list {
     flex-direction: column;
     width: 30%;
-    font-size: 1rem;
+    font-size: 0.75rem;
   }
   .name {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    margin: 0;
   }
   #projects {
     height: 190vh;
@@ -199,9 +200,9 @@ a:visited {
   height: 90vh;
 }
 #contact-message {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 .fa-brands, .fa-solid {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 }
