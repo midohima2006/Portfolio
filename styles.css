@@ -182,7 +182,7 @@ a:visited {
   }
   #grid-title {
     height: 7.5%;
-    font-size: 1.5rem;
+    font-size: 2.25rem;
   }
   #projects-grid {
     grid-template-columns: 1fr;
@@ -200,7 +200,7 @@ a:visited {
   height: 90vh;
 }
 #contact-message {
-  font-size: 2rem;
+  font-size: 2.25rem;
 }
 .fa-brands, .fa-solid {
   font-size: 2rem;
