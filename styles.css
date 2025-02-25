@@ -171,16 +171,17 @@ a:visited {
   #nav-list {
     flex-direction: column;
     width: 30%;
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
   .name {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
   #projects {
     height: 190vh;
   }
   #grid-title {
     height: 7.5%;
+    font-size: 1.5rem;
   }
   #projects-grid {
     grid-template-columns: 1fr;
@@ -194,4 +195,13 @@ a:visited {
   #contact-message {
     width: 90%;
   }
+#contact {
+  height: 90vh;
+}
+#contact-message {
+  font-size: 1.5rem;
+}
+.fa-brands, .fa-solid {
+  font-size: 1.5rem;
+}
 }
