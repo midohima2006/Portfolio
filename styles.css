@@ -131,6 +131,10 @@ main {
   transform: scale(1.05);
   transition: 0.3s ease-in-out;
 }
+.pc:hover, .mob:hover {
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
   .mob {
   width: 25%;
   height: 100%;
