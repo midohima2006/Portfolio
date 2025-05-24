@@ -128,17 +128,14 @@ main {
   width: 75%;
   height: 100%;
   object-fit: scale-down;
-  transform: scale(1.05);
-  transition: 0.3s ease-in-out;
 }
-.pc:hover, .mob:hover {
-  transform: scale(105%);
-  transition: 0.3s ease-in-out;
-}
+
   .mob {
   width: 25%;
   height: 100%;
   object-fit: scale-down;
+}
+.pc:hover, .mob:hover {
   transform: scale(105%);
   transition: 0.3s ease-in-out;
 }
